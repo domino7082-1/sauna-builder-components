@@ -17,6 +17,14 @@
       "file": "stove/Harvia_Cilindro_PC90E.skp",
       "bytes": 0,
       "sha256": ""
+    },
+     {
+      "id": "stove_02",
+      "category": "stove",
+      "name": "Harvia Vega E",
+      "file": "stove/Vega_E.skp",
+      "bytes": 0,
+      "sha256": ""
     }
   ]
 }
