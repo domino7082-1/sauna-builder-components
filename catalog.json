@@ -29,6 +29,14 @@
       "bytes": 0,
       "sha256": ""
     },
+        {
+      "id": "handle_01",
+      "category": "handle",
+      "name": "Madlo Harvia",
+      "file": "handle/Madlo_Harvia.skp",
+      "bytes": 0,
+      "sha256": "",
+    },
     {
       "id": "stove_01",
       "category": "stove",
