@@ -11,6 +11,14 @@
       "sha256": ""
     },
     {
+      "id": "hinge_02",
+      "category": "hinge",
+      "name": "Pánt Sentio sklo/sklo",
+      "file": "hinge/Sentio_pant_sklo_sklo.skp",
+      "bytes": 0,
+      "sha256": ""
+    },
+    {
       "id": "stove_01",
       "category": "stove",
       "name": "Harvia Cilindro PC90E",
