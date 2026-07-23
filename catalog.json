@@ -43,7 +43,7 @@
       "name": "Harvia Cilindro PC90E",
       "file": "stove/Harvia_Cilindro_PC90E.skp",
       "bytes": 0,
-      "sha256": ""
+      "sha256": "",
       "floor_offset_mm": 0
     },
     {
@@ -52,7 +52,7 @@
       "name": "Harvia Vega E",
       "file": "stove/Vega_E.skp",
       "bytes": 0,
-      "sha256": ""
+      "sha256": "",
       "floor_offset_mm": 150
     }
   ]
