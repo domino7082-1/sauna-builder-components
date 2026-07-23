@@ -5,24 +5,16 @@
     {
       "id": "hinge_01",
       "category": "hinge",
-      "name": "Pánt 01",
-      "file": "hinge/hinge_01.skp",
-      "bytes": 0,
-      "sha256": ""
-    },
-    {
-      "id": "handle_01",
-      "category": "handle",
-      "name": "Madlo 01",
-      "file": "handle/handle_01.skp",
+      "name": "Pánt Harvia sklo/sklo",
+      "file": "hinge/Harvia_pant_sklo_sklo.skp",
       "bytes": 0,
       "sha256": ""
     },
     {
       "id": "stove_01",
       "category": "stove",
-      "name": "Pec 01",
-      "file": "stove/stove_01.skp",
+      "name": "Harvia Cilindro PC90E",
+      "file": "stove/Harvia_Cilindro_PC90E.skp",
       "bytes": 0,
       "sha256": ""
     }
