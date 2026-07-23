@@ -7,6 +7,7 @@
       "category": "hinge",
       "name": "Pánt Harvia sklo/sklo",
       "file": "hinge/Harvia_pant_sklo_sklo.skp",
+      "mount": "glass_glass",
       "bytes": 0,
       "sha256": ""
     },
@@ -15,6 +16,7 @@
       "category": "hinge",
       "name": "Pánt Sentio sklo/sklo",
       "file": "hinge/Sentio_pant_sklo_sklo.skp",
+      "mount": "glass_glass",
       "bytes": 0,
       "sha256": ""
     },
