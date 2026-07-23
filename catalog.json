@@ -17,6 +17,7 @@
       "file": "stove/Harvia_Cilindro_PC90E.skp",
       "bytes": 0,
       "sha256": ""
+      "floor_offset_mm": 0
     },
      {
       "id": "stove_02",
@@ -25,6 +26,7 @@
       "file": "stove/Vega_E.skp",
       "bytes": 0,
       "sha256": ""
+      "floor_offset_mm": 150
     }
   ]
 }
