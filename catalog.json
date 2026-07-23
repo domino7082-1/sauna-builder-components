@@ -29,7 +29,7 @@
       "bytes": 0,
       "sha256": ""
     },
-        {
+    {
       "id": "handle_01",
       "category": "handle",
       "name": "Madlo Harvia",
@@ -46,7 +46,7 @@
       "sha256": "",
       "floor_offset_mm": 0
     },
-     {
+    {
       "id": "stove_02",
       "category": "stove",
       "name": "Harvia Vega E",
