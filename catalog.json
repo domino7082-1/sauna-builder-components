@@ -1,5 +1,30 @@
 {
   "version": "1.0.0",
   "base": "components",
-  "items": []
+  "items": [
+    {
+      "id": "hinge_01",
+      "category": "hinge",
+      "name": "Pánt 01",
+      "file": "hinge/hinge_01.skp",
+      "bytes": 0,
+      "sha256": ""
+    },
+    {
+      "id": "handle_01",
+      "category": "handle",
+      "name": "Madlo 01",
+      "file": "handle/handle_01.skp",
+      "bytes": 0,
+      "sha256": ""
+    },
+    {
+      "id": "stove_01",
+      "category": "stove",
+      "name": "Pec 01",
+      "file": "stove/stove_01.skp",
+      "bytes": 0,
+      "sha256": ""
+    }
+  ]
 }
