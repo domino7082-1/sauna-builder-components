@@ -21,6 +21,15 @@
       "sha256": ""
     },
     {
+      "id": "hinge_03",
+      "category": "hinge",
+      "name": "Pánt sklo/drevo",
+      "file": "hinge/pant_sklo_drevo.skp",
+      "mount": "wood_glass",
+      "bytes": 0,
+      "sha256": ""
+    },
+    {
       "id": "stove_01",
       "category": "stove",
       "name": "Harvia Cilindro PC90E",
