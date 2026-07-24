@@ -54,6 +54,15 @@
       "bytes": 0,
       "sha256": "",
       "floor_offset_mm": 150
+    },
+     {
+      "id": "stove_03",
+      "category": "stove",
+      "name": "Harvia Senator T10,5 + Guard",
+      "file": "stove/Senator_T10,5_Guard.skp",
+      "bytes": 0,
+      "sha256": "",
+      "floor_offset_mm": 0
     }
   ]
 }
