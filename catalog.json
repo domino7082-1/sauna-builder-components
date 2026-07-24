@@ -30,6 +30,15 @@
       "sha256": ""
     },
     {
+      "id": "hinge_04",
+      "category": "hinge",
+      "name": "Pánt Sentio drevo/sklo",
+      "file": "hinge/Pant_Sentio_drevo_sklo.skp",
+      "mount": "wood_glass",
+      "bytes": 0,
+      "sha256": ""
+    },
+    {
       "id": "handle_01",
       "category": "handle",
       "name": "Madlo Harvia",
